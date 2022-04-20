@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf ../vcf_data/denovo37.recode.vcf
+	--maf 0.01
+	--min-meanDP 18
+	--max-missing 0.4
+	--out denovo37_25X_0.4_0.01.vcf
+	--recode
+
+After filtering, kept 90 out of 90 Individuals
+Outputting VCF file...
+After filtering, kept 848 out of a possible 1209 Sites
+Run Time = 0.00 seconds
