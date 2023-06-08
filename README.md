@@ -8,5 +8,6 @@ In this manuscript we quantify the extent to which divergence is driven by abiot
 
 The data contains four files: 
 
-Name:denovo37 This is a file in format vcf for 64 samples: Include samples from middlelands and lowlands. 
-Name:denovo30 This is a file in format vcf for 90 samples: Include samples from highlands, middlelands and lowlands. 
+denovo37 This is a file in format vcf for 64 samples: Include samples from middlelands and lowlands.
+
+denovo30 This is a file in format vcf for 90 samples: Include samples from highlands, middlelands and lowlands. 
